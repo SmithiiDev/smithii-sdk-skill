@@ -4,7 +4,7 @@
 > that supports the [agent skills standard](https://agentskills.io):
 >
 > ```
-> add smithii-sdk skill https://raw.githubusercontent.com/SmithiiDev/smithii-sdk-skill/main/SKILL.md
+> add smithii-sdk skill https://tools.smithii.io/skill/skill.md
 > ```
 
 Claude Code / agent skill for [`@smithii/sdk`](https://www.npmjs.com/package/@smithii/sdk) —
